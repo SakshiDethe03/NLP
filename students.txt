@@ -1,0 +1,5 @@
+
+Name	Class	RollNo	Course  email  
+Aa	SY	3	computer science   aaa@gmail.com
+Bb	TY	1	artificial intelligence  bbb@gmail.com
+Cc  SY  2   computer science   ccc@gmail.com
